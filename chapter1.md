@@ -1,7 +1,6 @@
 # Blender Keyboard Shortcuts
 
-
-
 **Cursor:**  
-Shift-s
+Set 3D Cursor - Shift-s  
+Reset 3D Cursor - Shift-C
 
