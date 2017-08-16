@@ -1,3 +1,4 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Blender Keyboard Shortcuts](README.md)
+
